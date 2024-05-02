@@ -1,2 +1,2 @@
 # repo
-dnjvdnjvdvfjdvfn
+Hello, this is updating readme using terminal
